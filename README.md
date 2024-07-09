@@ -95,5 +95,6 @@ You will need to submit this link as a part of the assignment evaluation.
 
 Hint: Refer to Lab: Working with files in Jupyter Notebooks to download the notebook from SN Labs.
 
-# Exercise 13 -Take a screenshot of the first page of the notebook and save it as 1-notebook.png(Images can be saved with either the .jpg or .png extension.)
+# Exercise 13 
+-Take a screenshot of the first page of the notebook and save it as 1-notebook.png(Images can be saved with either the .jpg or .png extension.)
 
